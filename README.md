@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lokesh Warke</h1>
-<h3 align="center">SOFWARE DEVELOPER</h3>
+<h3 align="center">SOFTWARE DEVELOPER</h3>
 
 - 📫 How to reach me **lokeshwarke6@gmail.com**
 
