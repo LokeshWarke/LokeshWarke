@@ -5,7 +5,7 @@
 
 <br />
 
-<!-- Real-time GitHub Analytics Assets -->
+<!-- Real-time GitHub Analytics Assets (Rendered via Repo Storage Pipeline) -->
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -26,7 +26,7 @@
 I am an innovative **Software Developer** focused on engineering scalable, high-performance backends and interactive frontend architectures. I specialize in Python-driven ecosystems and modern web frameworks to transform logic into fluid user experiences.
 
 <p align="right">
-  <!-- Live Verified Developer Workspace Asset Loop -->
+  <!-- Live Verified Developer Workspace Animation Loop -->
   <img src="https://giphy.com" height="160" alt="Live Developer Workstation Animation Loop" />
 </p>
 
@@ -40,19 +40,19 @@ I am an innovative **Software Developer** focused on engineering scalable, high-
 ### 🛠️ Core Competencies & Technologies
 
 <div align="left">
-  <!-- Languages with Graphic SVG Badges Embedded -->
-  <img src="https://shields.io" height="35" alt="Python PNG/SVG Visual Badge" />
-  <img src="https://shields.io" height="35" alt="JavaScript PNG/SVG Visual Badge" />
-  <img src="https://shields.io" height="35" alt="Go PNG/SVG Visual Badge" />
-  <img src="https://shields.io" height="35" alt="SQL PNG/SVG Visual Badge" />
+  <!-- Languages with Stable jsDelivr Inline Layout Engines -->
+  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="Python" />
+  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="JavaScript" />
+  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="Go" />
+  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="SQL" />
   
   <br /><br />
   
-  <!-- Frameworks & Infrastructure with Graphic SVG Badges Embedded -->
-  <img src="https://shields.io" height="35" alt="FastAPI PNG/SVG Visual Badge" />
-  <img src="https://shields.io" height="35" alt="Docker PNG/SVG Visual Badge" />
-  <img src="https://shields.io" height="35" alt="Git PNG/SVG Visual Badge" />
-  <img src="https://shields.io" height="35" alt="GitHub PNG/SVG Visual Badge" />
+  <!-- Frameworks & Infrastructure with Stable jsDelivr Inline Layout Engines -->
+  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="FastAPI" />
+  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="Docker" />
+  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="Git" />
+  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="GitHub" />
 </div>
 
 ---
@@ -61,13 +61,13 @@ I am an innovative **Software Developer** focused on engineering scalable, high-
 
 <div align="left">
   <!-- Contact Hub Buttons -->
-  <a href="mailto:lokeshwarke6@gmail.com" target="_blank">
-    <img src="https://shields.io" height="38" alt="Email contact clickable button" />
+  <a href="mailto:lokeshwarke6@gmail.com" target="_blank" style="text-decoration: none; margin-right: 5px;">
+    <img src="https://shields.io" height="38" alt="Email" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" height="38" alt="LinkedIn profile clickable button" />
+  <a href="https://linkedin.com" target="_blank" style="text-decoration: none; margin-right: 5px;">
+    <img src="https://shields.io" height="38" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" height="38" alt="Instagram profile clickable button" />
+  <a href="https://instagram.com" target="_blank" style="text-decoration: none; margin-right: 5px;">
+    <img src="https://shields.io" height="38" alt="Instagram" />
   </a>
 </div>
