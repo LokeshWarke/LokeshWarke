@@ -1,49 +1,78 @@
-<h2 data-importer="text" align="left">Hi 👋! I'M Lokesh warke ... and I'm a Software Developer, </h2>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
 </div>
 
-###
+<p align="center">
+  <a href="https://github.com"><img src="https://vercel.app" alt="Lokesh's Trophies" /></a>
+</p>
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+### 💫 About Me
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+I am a passionate **Software Developer** dedicated to building fast, scalable, and user-centric web applications. I love turning complex problems into elegant, clean code.
+
+<p align="right">
+  <img src="https://giphy.com" height="150" alt="Python Coder Animation" />
+</p>
+
+- 🚀 Currently working on improving my full-stack architecture skills.
+- 🧠 Learning advanced system design and exploring next-gen web frameworks.
+- 🤝 Open to collaborating on innovative open-source projects.
+- 💬 Ask me about **JavaScript, TypeScript, React, or Python**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  
+  <br />
+  
+  <!-- Backend & Languages -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://vercel.app" height="170" alt="Lokesh's Stats" />
+      </td>
+      <td>
+        <img src="https://vercel.app" height="170" alt="Lokesh's Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:lokeshwarke6@gmail.com"><img src="https://shields.io" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+  <a href="https://instagram.com"><img src="https://shields.io" /></a>
+  <a href="https://youtube.com"><img src="https://shields.io" /></a>
+  <a href="https://twitch.tv"><img src="https://shields.io" /></a>
+  <a href="YOUR_DISCORD_INVITE"><img src="https://shields.io" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://githubusercontent.com" alt="Snake animation" />
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
