@@ -1,115 +1,60 @@
 <div align="center">
 
+<!-- ========================================================= -->
+<!--                    3D HERO                                -->
+<!-- ========================================================= -->
+
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0A0A0A,100:111111&text=&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=venom&height=300&text=LOKESH%20WARKE&fontSize=62&fontColor=F5F5F5&color=0:050505,35:0B0B0B,65:15120E,100:050505&stroke=D4A574&strokeWidth=0.4&animation=twinkling"
 />
 
 <br>
 
-# **LOKESH WARKE**
-
-### Full Stack Developer
-
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&size=17&duration=3500&pause=1200&color=A1A1AA&center=true&vCenter=true&width=700&lines=I+design+and+build+modern+software+products.;From+interface+to+API%2C+database+and+cloud.;Focused+on+clean+architecture+and+real-world+systems."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=B8B8B8&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;SOFTWARE+ENGINEER;BUILDING+MODERN+DIGITAL+PRODUCTS;FRONTEND+%E2%86%92+BACKEND+%E2%86%92+DATABASE+%E2%86%92+CLOUD;DESIGNING+SYSTEMS%2C+NOT+JUST+SCREENS"
 />
-
-<br>
-
-`Java` · `Spring Boot` · `Python` · `FastAPI` · `React` · `Next.js` · `AWS`
 
 <br><br>
 
-[ **Portfolio** ] &nbsp;&nbsp; [ **LinkedIn** ] &nbsp;&nbsp; [ **GitHub** ]
+<img src="https://img.shields.io/badge/STATUS-●%20BUILDING-0A0A0A?style=for-the-badge&labelColor=000000&color=1F2937"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-0A0A0A?style=for-the-badge&labelColor=000000&color=3F3F46"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BASE-INDIA-0A0A0A?style=for-the-badge&labelColor=000000&color=3F3F46"/>
 
 </div>
 
 ---
 
-<br>
+<div align="center">
 
-## About
+<!-- ========================================================= -->
+<!--                 ANIMATED 3D GRID                         -->
+<!-- ========================================================= -->
 
-I'm **Lokesh Warke**, a Full Stack Developer interested in building
-software that is useful, scalable and thoughtfully designed.
-
-I enjoy working across the entire product lifecycle — from designing
-interfaces and APIs to modelling databases, integrating services and
-deploying applications to the cloud.
-
-My current focus is on **Java, Spring Boot, modern React applications,
-cloud infrastructure and system design**.
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D4A574,50:3F3F46,100:0A0A0A"
+/>
 
 <br>
 
-> **Good software should feel simple on the surface and be well engineered underneath.**
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=450&color=8F8F8F&center=true&vCenter=true&width=750&lines=%24+initializing+lokesh.dev...;%24+loading+architecture...;%24+loading+projects...;%24+loading+technology+matrix...;%24+environment+ready+%E2%86%92+%5B+ONLINE+%5D"
+/>
 
----
-
-## What I Build
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### Product Interfaces
-
-Designing clean and responsive interfaces with
-
-`React`  
-`Next.js`  
-`TypeScript`  
-`Tailwind`
-
-</td>
-
-<td width="33%" valign="top">
-
-### Backend Systems
-
-Building APIs and services with
-
-`Java`  
-`Spring Boot`  
-`Python`  
-`FastAPI`
-
-</td>
-
-<td width="33%" valign="top">
-
-### Infrastructure
-
-Running applications using
-
-`PostgreSQL`  
-`Redis`  
-`Docker`  
-`AWS`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Selected Work
-
-### 01 — OpsDesk
-
-**Multi-tenant customer support platform**
-
-A SaaS product designed around organizations, teams and support workflows.
+<br><br>
 
 ```text
-Next.js
-    ↓
-FastAPI
-    ↓
-PostgreSQL
-    ↓
-Redis
-    ↓
-Background Workers
+                    ╱╲
+                   ╱  ╲
+                  ╱    ╲
+                 ╱  ◇   ╲
+                ╱        ╲
+               ╱__________╲
+              ╱            ╲
+             ╱   LOKESH     ╲
+            ╱     WARKE      ╲
+           ╱__________________╲
+
+                 FULL STACK
+                  DEVELOPER
