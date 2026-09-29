@@ -1,35 +1,115 @@
-<!-- ========================================================= -->
-<!--                     PREMIUM HERO                          -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=venom&height=250&text=LOKESH%20WARKE&fontSize=58&fontColor=F5F3FF&color=0:000000,45:08070B,75:15101A,100:090909&stroke=8B5CF6&strokeWidth=0.35&animation=twinkling"
+src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0A0A0A,100:111111&text=&animation=fadeIn"
 />
 
 <br>
 
+# **LOKESH WARKE**
+
+### Full Stack Developer
+
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=D4D4D8&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;SOFTWARE+ENGINEER;BUILDING+SYSTEMS+FROM+ZERO+TO+PRODUCTION;FRONTEND+%2B+BACKEND+%2B+CLOUD;TURNING+IDEAS+INTO+SOFTWARE"
+src="https://readme-typing-svg.demolab.com?font=Inter&size=17&duration=3500&pause=1200&color=A1A1AA&center=true&vCenter=true&width=700&lines=I+design+and+build+modern+software+products.;From+interface+to+API%2C+database+and+cloud.;Focused+on+clean+architecture+and+real-world+systems."
 />
+
+<br>
+
+`Java` · `Spring Boot` · `Python` · `FastAPI` · `React` · `Next.js` · `AWS`
 
 <br><br>
 
-<img src="https://img.shields.io/badge/●%20SYSTEM%20ONLINE-090909?style=for-the-badge&labelColor=000000&color=27272A"/>
+[ **Portfolio** ] &nbsp;&nbsp; [ **LinkedIn** ] &nbsp;&nbsp; [ **GitHub** ]
 
 </div>
 
 ---
 
-<div align="center">
+<br>
+
+## About
+
+I'm **Lokesh Warke**, a Full Stack Developer interested in building
+software that is useful, scalable and thoughtfully designed.
+
+I enjoy working across the entire product lifecycle — from designing
+interfaces and APIs to modelling databases, integrating services and
+deploying applications to the cloud.
+
+My current focus is on **Java, Spring Boot, modern React applications,
+cloud infrastructure and system design**.
+
+<br>
+
+> **Good software should feel simple on the surface and be well engineered underneath.**
+
+---
+
+## What I Build
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### Product Interfaces
+
+Designing clean and responsive interfaces with
+
+`React`  
+`Next.js`  
+`TypeScript`  
+`Tailwind`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Backend Systems
+
+Building APIs and services with
+
+`Java`  
+`Spring Boot`  
+`Python`  
+`FastAPI`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Infrastructure
+
+Running applications using
+
+`PostgreSQL`  
+`Redis`  
+`Docker`  
+`AWS`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Selected Work
+
+### 01 — OpsDesk
+
+**Multi-tenant customer support platform**
+
+A SaaS product designed around organizations, teams and support workflows.
 
 ```text
-                    ┌─────────────────────────┐
-                    │                         │
-                    │      L O K E S H        │
-                    │        W A R K E         │
-                    │                         │
-                    │   FULL STACK DEVELOPER  │
-                    │                         │
-                    └─────────────────────────┘
+Next.js
+    ↓
+FastAPI
+    ↓
+PostgreSQL
+    ↓
+Redis
+    ↓
+Background Workers
