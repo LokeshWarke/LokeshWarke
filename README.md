@@ -1,73 +1,53 @@
+<!-- HERO -->
+
 <div align="center">
-  <!-- Live Minimalist Grey Dynamic Typing Engine Header -->
-  <img src="https://demolab.com" alt="Live Typing Animation" />
-</div>
 
-<br />
+# 👋 Hi, I'm **Lokesh Warke**
 
-<!-- Real-time GitHub Analytics Assets (Rendered via Repo Storage Pipeline) -->
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="profile/stats.svg" height="160" alt="Lokesh's Live Stats" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="profile/top-langs.svg" height="160" alt="Lokesh's Language Analytics" />
-      </td>
-    </tr>
-  </table>
-</div>
+### `Backend Developer` • `Cloud Enthusiast` • `Software Engineer`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Cloud+%7C+Docker+%7C+AWS+%7C+DevOps;Designing+Production-Ready+Applications;Always+Learning.+Always+Building." />
 
-### 💫 Executive Summary
+<br/>
 
-I am an innovative **Software Developer** focused on engineering scalable, high-performance backends and interactive frontend architectures. I specialize in Python-driven ecosystems and modern web frameworks to transform logic into fluid user experiences.
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge"/>
+</a>
 
-<p align="right">
-  <!-- Live Verified Developer Workspace Animation Loop -->
-  <img src="https://giphy.com" height="160" alt="Live Developer Workstation Animation Loop" />
-</p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- ⚡ **Core Focus**: High-throughput web applications, automated scripts, and API engineering.
-- 🚀 **Current Initiative**: Architecting robust microservices and studying advanced cloud-native design.
-- 🧠 **Tech Pursuits**: Deepening knowledge in algorithmic optimization and data infrastructure.
-- 🤝 **Collaboration**: Looking to contribute to advanced frameworks and high-impact automation tools.
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-### 🛠️ Core Competencies & Technologies
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 
-<div align="left">
-  <!-- Languages with Stable jsDelivr Inline Layout Engines -->
-  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="Python" />
-  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="JavaScript" />
-  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="Go" />
-  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="SQL" />
-  
-  <br /><br />
-  
-  <!-- Frameworks & Infrastructure with Stable jsDelivr Inline Layout Engines -->
-  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="FastAPI" />
-  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="Docker" />
-  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="Git" />
-  <img src="https://shields.io" height="38" style="display: inline-block; margin-right: 5px;" alt="GitHub" />
 </div>
 
 ---
 
-### 🌐 Digital Footprint & Connections
+## ⚡ Who Am I?
 
-<div align="left">
-  <!-- Contact Hub Buttons -->
-  <a href="mailto:lokeshwarke6@gmail.com" target="_blank" style="text-decoration: none; margin-right: 5px;">
-    <img src="https://shields.io" height="38" alt="Email" />
-  </a>
-  <a href="https://linkedin.com" target="_blank" style="text-decoration: none; margin-right: 5px;">
-    <img src="https://shields.io" height="38" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com" target="_blank" style="text-decoration: none; margin-right: 5px;">
-    <img src="https://shields.io" height="38" alt="Instagram" />
-  </a>
-</div>
+```text
+Lokesh Warke
+──────────────────────────────────────────────
+
+Backend Developer focused on building
+scalable, secure and production-ready systems.
+
+Currently exploring →
+
+Java              ████████████████████░  Spring Boot
+Python            ██████████████████░░░  FastAPI
+Databases         ███████████████████░░  PostgreSQL
+Cloud             ████████████████░░░░░  AWS
+DevOps            ███████████████░░░░░░  Docker / CI/CD
+Architecture      ██████████████░░░░░░░  System Design
+AI Engineering    ████████████░░░░░░░░░  RAG / LLMs
+```
+
+> **I don't just build applications.**
